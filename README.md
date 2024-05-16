@@ -64,4 +64,3 @@ Spiteify is released under the [MIT License](https://opensource.org/licenses/MIT
 - [Spotify API](https://developer.spotify.com/documentation/web-api/) - The powerful API that powers Spiteify's hate recommendations. 🎧
 - [Next.js](https://nextjs.org/) - The React framework used for building the Spiteify web application. ⚛️
 - [Tailwind CSS](https://tailwindcss.com/) - The utility-first CSS framework used for styling Spiteify. 💅
-```
