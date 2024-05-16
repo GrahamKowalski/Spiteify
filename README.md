@@ -1,47 +1,67 @@
-# 🚀 SRGK 🚀
+# Spiteify 😈 🎵
 
-[![Stars](https://img.shields.io/github/stars/GrahamKowalsi/SRGK?style=social)](https://github.com/GrahamKowalski/SRGK) [![Issues](https://img.shields.io/github/issues/GrahamKowalski/SRGK)](https://github.com/GrahamKowalski/SRGK/issues) [![License](https://img.shields.io/github/license/GrahamKowalski/SRGK)](https://github.com/GrahamKowalski/SRGK/blob/main/LICENSE)
+Spiteify is a web application that uses the Spotify API to recommend songs that you're likely to hate! Whether you're looking to torture your ears or annoy your friends, Spiteify has got you covered. 🔥
 
-## 💥 Disrupting the StatusQuo 💥
+## Live Demo
 
-Welcome to the next-gen, cutting-edge, paradigm-shifting, cloud-native, serverless, microservices-based, blockchain-powered, AI-driven, quantum-resistant, full-stack, omnichannel, scalable, and resilient solution for... something! 🤷‍♂️
+Check out the live demo at [https://spiteify.com](https://spiteify.com)
 
-## ⚡ Lightning-Fast Adoption ⚡
+## Features
 
-In just 24 hours, this game-changing project has already garnered an astonishing **2 stars** on GitHub! 🌟🌟 The hype is real, and the revolution has begun!
+- **Hate-based Recommendations**: Spiteify uses advanced algorithms and the Spotify API to analyze your music preferences and recommend songs that are the polar opposite of what you like. 🎶💔
+- **Customizable Hate Levels**: Adjust the "hate" slider to control how much you want to despise the recommended songs. 😡
+- **Shareable Hate Playlists**: Create and share playlists of your most hated songs with your friends (or enemies). 👬👫
+- **Spotify Integration**: Seamlessly connect your Spotify account to get personalized hate recommendations. 🔗
 
-## 🌐 Leveraging Bleeding-Edge Tech 🌐
+## Getting Started
 
-- **Reactive Programming**: We're harnessing the power of reactive streams and event-driven architectures to deliver real-time, low-latency experiences.
-- **Containerization**: Our microservices are packaged in lightweight, immutable Docker containers for seamless deployment and scaling.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: We've automated the entire build, test, and deployment pipeline for maximum agility and velocity.
-- **Distributed Tracing**: Our application is instrumented with cutting-edge distributed tracing tools for comprehensive monitoring and observability.
-- **Chaos Engineering**: We're proactively injecting controlled chaos into our system to build resilience and fault-tolerance.
+To run Spiteify locally, follow these steps:
 
-## 🧠 AI-Powered Intelligence 🧠
+1. Clone the repository:
 
-Our secret sauce is a state-of-the-art, deep learning-based, neural network model that leverages advanced natural language processing and computer vision techniques to deliver unprecedented insights and value.
+    ```bash
+    git clone https://github.com/your-username/spiteify.git
+    ```
 
-## 📈 Scalable and Resilient 📈
+2. Install dependencies:
 
-Thanks to our cloud-native, microservices-based architecture, horizontally scalable databases, and robust circuit-breaker patterns, our solution can handle massive traffic spikes and withstand multiple levels of failure.
+    ```bash
+    cd spiteify
+    npm install
+    ```
 
-## 🔐 Secure by Design 🔐
+3. Set up your Spotify API credentials by creating a `.env` file in the project root with the following variables:
 
-We've embraced the principles of zero-trust security, implementing robust authentication, authorization, encryption, and vulnerability scanning mechanisms to protect our users' data and ensure compliance with the latest security standards.
+    ```
+    SPOTIFY_CLIENT_ID=your_client_id
+    SPOTIFY_CLIENT_SECRET=your_client_secret
+    ```
 
-## 📝 Documentation and Examples 📝
+4. Start the development server:
 
-Check out our comprehensive documentation and real-world examples in the [wiki](https://github.com/GrahamKowalski/SRGK/wiki) section.
+    ```bash
+    npm run dev
+    ```
 
-## 🤝 Contributing 🤝
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the app running. 🚀
 
-We welcome contributions from seasoned developers, open-source enthusiasts, and ambitious newcomers alike! Check out our [contributing guidelines](https://github.com/GrahamKowalski/SRGK/blob/main/CONTRIBUTING.md) to get started.
+## Contributing
 
-## 📃 License 📃
+Contributions are welcome! If you'd like to contribute to Spiteify, please follow these steps: 🤝
 
-This project is licensed under the [GPL-3.0](https://github.com/GrahamKowalski/SRGK/blob/main/LICENSE).
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the main repository.
 
----
+## License
 
-Made with ❤️ by Sean and Graham
+Spiteify is released under the [MIT License](https://opensource.org/licenses/MIT). 📜
+
+## Acknowledgments
+
+- [Spotify API](https://developer.spotify.com/documentation/web-api/) - The powerful API that powers Spiteify's hate recommendations. 🎧
+- [Next.js](https://nextjs.org/) - The React framework used for building the Spiteify web application. ⚛️
+- [Tailwind CSS](https://tailwindcss.com/) - The utility-first CSS framework used for styling Spiteify. 💅
+```
