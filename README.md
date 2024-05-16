@@ -32,11 +32,11 @@ We've embraced the principles of zero-trust security, implementing robust authen
 
 ## 📝 Documentation and Examples 📝
 
-Check out our comprehensive documentation and real-world examples in the [wiki](https://github.com/seanandgraham/SRGK/wiki) section.
+Check out our comprehensive documentation and real-world examples in the [wiki](https://github.com/GrahamKowalski/SRGK/wiki) section.
 
 ## 🤝 Contributing 🤝
 
-We welcome contributions from seasoned developers, open-source enthusiasts, and ambitious newcomers alike! Check out our [contributing guidelines](https://github.com/seanandgraham/SRGK/blob/main/CONTRIBUTING.md) to get started.
+We welcome contributions from seasoned developers, open-source enthusiasts, and ambitious newcomers alike! Check out our [contributing guidelines](https://github.com/GrahamKowalski/SRGK/blob/main/CONTRIBUTING.md) to get started.
 
 ## 📃 License 📃
 
