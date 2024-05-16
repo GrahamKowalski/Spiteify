@@ -20,7 +20,7 @@ To run Spiteify locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/spiteify.git
+    git clone https://github.com/GrahamKowalski/spiteify.git
     ```
 
 2. Install dependencies:
