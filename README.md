@@ -40,7 +40,7 @@ We welcome contributions from seasoned developers, open-source enthusiasts, and 
 
 ## 📃 License 📃
 
-This project is licensed under the [MIT License](https://github.com/GrahamKowalski/SRGK/blob/main/LICENSE).
+This project is licensed under the [GPL-3.0](https://github.com/GrahamKowalski/SRGK/blob/main/LICENSE).
 
 ---
 
