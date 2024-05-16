@@ -1,6 +1,6 @@
 # 🚀 SRGK 🚀
 
-[![Stars](https://img.shields.io/github/stars/GrahamKowalsi/SRGK?style=social)](https://github.com/GrahamKowalski/SRGK) [![Issues](https://img.shields.io/github/issues/GrahamKowalski/SRGK)](https://github.com/seanandgraham/SRGK/issues) [![License](https://img.shields.io/github/license/GrahamKowalski/SRGK)](https://github.com/GrahamKowalski/SRGK/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/GrahamKowalsi/SRGK?style=social)](https://github.com/GrahamKowalski/SRGK) [![Issues](https://img.shields.io/github/issues/GrahamKowalski/SRGK)](https://github.com/GrahamKowalski/SRGK/issues) [![License](https://img.shields.io/github/license/GrahamKowalski/SRGK)](https://github.com/GrahamKowalski/SRGK/blob/main/LICENSE)
 
 ## 💥 Disrupting the StatusQuo 💥
 
