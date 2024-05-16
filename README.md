@@ -2,9 +2,9 @@
 
 Spiteify is a web application that uses the Spotify API to recommend songs that you're likely to hate! Whether you're looking to torture your ears or annoy your friends, Spiteify has got you covered. 🔥
 
-## Live Demo
+## Live Usage
 
-Check out the live demo at [https://spiteify.com](https://spiteify.com)
+Check out the live webapp at [https://spiteify.com](https://spiteify.com)
 
 ## Features
 
