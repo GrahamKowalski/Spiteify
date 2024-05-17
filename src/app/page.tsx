@@ -28,8 +28,8 @@ const Home: React.FC = () => {
       </Head>
 
       <div className="max-w-md p-8 bg-white rounded-lg shadow-md">
-        <h1 className="text-3xl font-bold text-center mb-4">Spiteify</h1>
-        <p className="text-gray-600 text-center mb-8">music that you'll hate</p>
+        <h1 className="text-gray-600 text-3xl font-bold text-center mb-4">Spiteify</h1>
+        <p className="text-gray-600 text-center mb-8">Music that you'll hate.</p>
 
         {session ? (
           <div>
