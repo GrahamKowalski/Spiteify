@@ -1,8 +1,17 @@
 import React from 'react';
-import { signIn, useSession } from 'next-auth/react';
+import { signIn, getSession } from 'next-auth/react';
 
 const Spiteify: React.FC = () => {
-  const { data: session } = useSession();
+  const [session, setSession] = React.useState<any>(null);
+
+  React.useEffect(() => {
+    const fetchSession = async () => {
+      const session = await getSession();
+      setSession(session);
+    };
+
+    fetchSession();
+  }, []);
 
   const handleLogin = () => {
     signIn('spotify', { callbackUrl: '/spiteify' });
